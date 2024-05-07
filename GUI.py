@@ -2,6 +2,7 @@ from tkinterdnd2 import TkinterDnD, DND_ALL
 import customtkinter as ctk
 import whisper_timestamped, re
 
+# Listener
 
 
 '''
